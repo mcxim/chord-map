@@ -6,3 +6,9 @@ The said graph can then be viewed in a program like Gephi to get visual represen
 An example graph created using Gephi with the "ForceAtlas 2" layout:
 
 ![graph](https://github.com/mcxim/chord-map/blob/master/gephi-graph.jpg?raw=true)
+
+To create a "data.csv" in your working directory, run:
+```sh
+$ runhaskell Main.py path/to/database
+```
+"database" being the list of songs and their corresponding chord progressions.
