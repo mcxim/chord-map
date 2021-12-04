@@ -9,6 +9,6 @@ An example graph created using Gephi with the "ForceAtlas 2" layout:
 
 To create a "data.csv" in your working directory, run:
 ```sh
-$ runhaskell Main.py path/to/database
+$ runhaskell Main.hs path/to/database
 ```
 "database" being the list of songs and their corresponding chord progressions.
