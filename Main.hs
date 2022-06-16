@@ -110,10 +110,10 @@ db path = (map parse . lines) <$> readFile path
 
 convertToCSV :: [(String, ChordSequence)] -> String
 convertToCSV songs =
-  ", " <> (intercalate ", " (map reprSong songs)) <> "\n" ++ unlines
+  "; " <> (intercalate "; " (map reprSong songs)) <> "\n" ++ unlines
     [ reprSong row
-      <> ", "
-      <> ( intercalate ", "
+      <> "; "
+      <> ( intercalate "; "
          . map
              ( show
              . (truncate' 2)

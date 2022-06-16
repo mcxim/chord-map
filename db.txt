@@ -1,5 +1,5 @@
 nevermind - i III IV IV
-never go back - ii IV I V
+never go back - ii IV vi V, vi V IV III
 thinking about it letit go - i VI iv VII
 alien - i v VII IV
 toy - i i VI V
@@ -63,7 +63,7 @@ I really like you - IV I V vi
 Just give me a reason - I iii vi iii-V
 Pretty girl - IV V vi I-V
 I did something bad - i III VI IV-V
-יהלומים - VI V i III, i i VI iv-v
+יהלומים - VI V i III, i i VI iv-V
 מיליון דולר - i iv VI V
 פאוץ' - i iv i iv
 אם אתה גבר - VI i VII iv
@@ -89,7 +89,7 @@ Glorious - i III iv VI, III iv i VI
 You belong with me - I V ii IV
 Roses (Chainsmokers) - i VI III VII
 Complicated - i VI III VII
-Lush life - VI vi i VII
+Lush life - VI iv i VII
 Firework - I ii vi IV
 Riptide - vi V I I
 Boom clap - IV V I vi
@@ -118,14 +118,14 @@ Heather - I iii vi IV-iv
 Sweater weather - VI ii vi I, ii I V V
 Genius - i V VII iv-VII
 Around the world la la la - i v VI VII
-New romantics - VI i VII iv
+New romantics - VI i VII iv, ii IV I V
 מסיבה - i III VII VI
 I know places - i VI iv V, III VII iv VI
 מרפקים - i III VI iv-v
 אח משכמה - i v VI III
 אין יותר טוב מזה - i iv i iv
 איסטנבול - i V i V
-אלוף העולם - i III VI iv, i v VI iv-III
+אלוף העולם - i v VI iv-III, i III VI iv
 אל תגעו לנו בעראק - i i iv V
 אמא אם הייתי - i v/VII iv VI
 תנין - i III VII VII
@@ -161,7 +161,6 @@ I know places - i VI iv V, III VII iv VI
 תם ולא נשלם - i VI III IV-iv
 תראו אותי - I iii vi IV
 תן לי יד - i VI III VII
-השמש תזרח - i VI III VII-V
 physical - i VI III VII
 paradise (bazzi) - I ii vi IV
 moral of the story - I III IV iv
@@ -180,11 +179,11 @@ get lucky - iv VI i VII
 תמיד חלמתי - IV I V vi, vi iii ii ii
 כביש החוף - i VI III VII
 אחרי החתונה עומר אדם - VI III v i-VII
-הולכת איתך - iv VI i VII
+הולכת איתך - iv VI i VII, i VI iv VI
 call me maybe - IV I V vi
 all the good girls go to hell - i VI iv V
-Just the two of us - VI V i III
-אין יותר מועדונים - i VI III VII
+Just the two of us - VI V i VII-III
+אין יותר מועדונים - i VI III VII, VI VII i III
 שמש חנן בן ארי - i VI III iv
 ככה זה אצלינו - i i III VII
 דבש ותפוח - i VII v VI
@@ -210,7 +209,7 @@ hangover - i III VI V
 pepas - iv i III VII
 without me - i III VII VI/iv
 fuego - i III VII iv
-lily - i iv VII i/v
+lily - i iv VII III/v
 nico and the niners - VI iv i VII
 shy away - VI iv i VII
 high hopes - IV I vi iii/V
@@ -222,3 +221,113 @@ creep - I III IV iv
 in your eyes - iv VII i VI
 לא הכל מן אללה - vi IV I V
 מישהו שומע - i III VI iv
+עד מחר - ii IV I V
+pumped up kicks - ii IV I V
+stand up the cap - ii IV I V
+רסיסים - i III iv VI-VII, VI VII i III/v
+רוצה שלום - i v VI iv
+גדל לי קצת זקן - i VII v VI-VII, iv i v VI-VII
+Don't go yet - i VII VI VI
+beautiful bazzi - I iii vi-V IV-iv
+senorita - i III VI v-VII
+treat you better - i VII VI VI/III
+there's nothing holding me back - IV vi V V
+mercy shawn mendes - iv VI i VII
+stitches - vi V I IV, i VII III VI, VI VII i VII
+סיבת הסיבות - VI iv i III
+ביחד - i III iv VI
+נשמה שלי - ii IV I V, IV vi iii IV
+please don't suck - I ii I ii
+יהלום - i VII VI VI-V, i VII VI IV
+הטעות הכי יפה - I ii vi IV
+אור הירח - I I IV iv
+ברחובות של תל אביב - i III VII iv
+חיים מאושרים - iv v i VII/III
+שני ילדים בעולם - i III iv i-V
+ואז את תראי - vi IV I iii, IV I iii vi-V
+בין קודש לחול - i III iv VI-VII, VI III iv VI
+את חסרה לי - iv VI i VII
+לא יוצא למסיבות - VI VII v VI
+chandelier - VI VII v VI, i VI VII v
+באת לי פתאום - III VII iv i, i v VI VII/III
+מאושרים - iv VI i VII, VI VII v i-VII
+חצי בשבילי - i v i v
+דיבור נגוע - i v VI iv
+איפה את - i VI iv V
+אני רוצה - III VII iv VI-VII, i v VII iv/VI
+סדר העבודה - i VII III VI-iv
+מים שקופים - i III VII iv
+שגרה מפוארת - VI i III VII, i VI III VII
+הלב שלי - VI III v i-VII
+כפיות - VI III iv i-VII,  i VII v VI-VII
+בלילות - VI i VII iv-v, iv VI i VII
+טמפרטורה - I I IV IV
+קירות - iv i III VII
+drum noa kirel - i VII VI iv
+ברגעים שאת הולכת - i VI III V, VI VII v i
+comme ci comme ca - i III VII VI
+לך עם האמת שלך - i VI iv VI
+מה את מרגישה - i v VII VI
+סיפר אחר - VI III iv i-VII, i VI III v
+nana banana - iv VI i VII
+alexander hamilton, a winter's ball, guns and ships, the adams administration - i V VI III-V
+aaron burr sir, non stop - VI iv i i
+my shot, satisfied, history has its eyes on you - i III iv VI-V
+the story of tonight - I iii/V vi iv
+you'll be back, what comes next, i know him - I I IV ii-V
+helpless - I IV I IV
+wait for it - I vi iii iii, vi I V V
+dear theodosia - I iii vi IV-V
+washington on your side - I I VII VII
+burn - i V VI III-iv
+Careless whisper - i iv VI V
+Holiday green day - i VI III VII
+radioactive - i III VII IV
+counting stars - i III VII iv
+it's my life - i VI III/VII VII
+אהבה אפרת גוש - i III VII IV
+Ezra Budapest - I I IV I
+In the name of love - IV IV vi V
+So far away - i VI VII v
+Falling to pieces - iv i III VII, III i v VII
+Fly away - i III VII IV
+I knew were trouble - i VI VII III-VII, III VII i VI
+מטקות - VI VII i i , i VII III IV
+רמקולים - I I III IV
+אולי נדבר - I iii vi IV
+ערומים - I I IV iv
+baby i'm yours - i i iv v
+feel it still - i III iv i
+the less i know the better - i i-VII III III-v
+Unstoppable - i VI III V
+Kooks sweet emotion - VI V i VII-III
+As it was - IV ii V I
+Outside Calvin Harris - VI iv i VII
+מחכה - I V ii IV, vi I V ii
+מחכה ריטה - IV I ii iii 
+price tag - I iii vi IV
+Mgmt kids - vi IV I V
+toto africa - vi IV I V
+grenade - vi IV I V
+באתי להציל אותך - iv VI i VII
+תיקו תיקו - VI iv i v
+טי שרט - IV I V vi-V, IV vi V IV-I
+Primadonna - ii V I vi
+מגבות - i VI VII i
+Let's get it started black eyed peas - i III VI V
+סגול בהיר - i III VI VII
+תרוצי אליו - VI-VII i v VI -VII
+סיגפו - i V VI VII, i III VII IV
+off to see the world - IV vi I IV
+fuck you - I III vi V
+angels like you - I V ii IV
+ghost of you - I V ii IV, vi IV I V
+young dumb and broke - I I vi V
+sorry halsey - ii IV vi I
+hate u love u - i VII v VI
+lovely - IV IV vi iii
+without me - i III VII iv/VI
+dance dance - i III IV V
+אהבה כזו - VI III v i-VII
+שלמים - i/VI III iv i
+רודף אהבה בימים - i v iv V
